@@ -1,0 +1,5 @@
+{
+  "/": "https://fallback-website.here",
+  "/gh": "https://github.com/your_github",
+  "/supports/nesting": "http://google.com/?q=golang+is+cool"
+}
